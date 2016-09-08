@@ -17,9 +17,8 @@ Wordpress 4.4+
 If you discover any issues or bugs, please report them on the issue tracker.
 
 # Credits
-This addon was made possible by:
-Author: RightPress
-Author URI: http://www.rightpress.net
+This addon was made possible by: RightPress , URI: http://www.rightpress.net
+Persian files by: ARS NETWORK (M) SDN BHD, Amin Mahdi Mamdooh, http://www.ars-network.com , http://www.mamdooh.me
 
 # License
-This module is licensed under RightPress and perisna files under GPLv3. See GPLv3.txt for complete license terms.
+This module is licensed under RightPress and persian edited files under GPLv3. See GPLv3.txt for complete license terms.
