@@ -19,7 +19,7 @@ Latest tested Release:
 Wocoomerce 3.5+
 Wordpress 4.4+
 
-If you discover any issues or bugs, please report them on the issue tracker.
+If you discover any issues or bugs, please report them on the <a href="https://github.com/aminmahdi/persian-woocommerce-pdf-invoices/issues">issue tracker</a>.
 
 # Credits
 This addon was made possible by: <a href="http://www.rightpress.net">RightPress<a>
