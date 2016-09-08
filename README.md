@@ -1,7 +1,12 @@
 # persian-woocommerce-pdf-invoices
-PDF invoice for woocommerce in Persian language is a pluging for wocommerce for export invoice in PDF, So many plugin has problem on the Persian language.
+PDF invoice for woocommerce in Persian language is a pluging for wocommerce for export invoice in PDF, So many plugins has problem on the Persian language.
 
-In this plugin I have fixed RTL persian fonts, persian number, currency, tables, content and everything.
+In this plugin I have fixed and added some futhure options: 
+- Fixed RTL direction
+- Fixed Tables direction and Contents
+- Add Shamsi Date
+- Add Persian font
+- Add Persian number
 
 # Installation
 To install, simply download the latest release, unzip it, and upload the plugin folder to your plugin directory in your wordpress website. This plugin automaticly added to your plugings list, after that you can activate.
