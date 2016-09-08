@@ -17,8 +17,11 @@ Wordpress 4.4+
 If you discover any issues or bugs, please report them on the issue tracker.
 
 # Credits
-This addon was made possible by: RightPress , URI: http://www.rightpress.net .
-Persian files by: ARS NETWORK (M) SDN BHD, Amin Mahdi Mamdooh, http://www.ars-network.com , http://www.mamdooh.me .
+This addon was made possible by: <a href="http://www.rightpress.net">RightPress<a>
+
+Persian files by: 
+<a href="http://www.ars-network.com">ARS NETWORK (M) SDN BHD</a>
+with <a href="http://www.mamdooh.me">Amin Mahdi Mamdooh</a>
 
 # License
 This module is licensed under RightPress and persian edited files under GPLv3.
