@@ -1,0 +1,1511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoice (shared on wplocker.com)\n"
+"POT-Creation-Date: 2015-12-15 15:48+0330\n"
+"PO-Revision-Date: 2016-07-14 17:51+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/woo-pdf-invoice.class.php:1777
+msgid "dirham"
+msgid_plural "dirhams"
+msgstr[0] "درهم"
+
+#: includes/woo-pdf-invoice.class.php:1778
+#: includes/woo-pdf-invoice.class.php:1784
+#: includes/woo-pdf-invoice.class.php:1786
+#: includes/woo-pdf-invoice.class.php:1789
+#: includes/woo-pdf-invoice.class.php:1803
+#: includes/woo-pdf-invoice.class.php:1808
+msgid "peso"
+msgid_plural "pesos"
+msgstr[0] "پزو"
+
+#: includes/woo-pdf-invoice.class.php:1779
+#: includes/woo-pdf-invoice.class.php:1783
+#: includes/woo-pdf-invoice.class.php:1791
+#: includes/woo-pdf-invoice.class.php:1806
+#: includes/woo-pdf-invoice.class.php:1813
+#: includes/woo-pdf-invoice.class.php:1817
+#: includes/woo-pdf-invoice.class.php:1821
+msgid "dollar"
+msgid_plural "dollars"
+msgstr[0] "تومان"
+
+#: includes/woo-pdf-invoice.class.php:1780
+msgid "taka"
+msgid_plural "taka"
+msgstr[0] "taka"
+
+#: includes/woo-pdf-invoice.class.php:1781
+msgid "real"
+msgid_plural "reais"
+msgstr[0] "ریال"
+
+#: includes/woo-pdf-invoice.class.php:1782
+msgid "lev"
+msgid_plural "leva"
+msgstr[0] "لو"
+
+#: includes/woo-pdf-invoice.class.php:1785
+msgid "yuan"
+msgid_plural "yuan"
+msgstr[0] "یوان"
+
+#: includes/woo-pdf-invoice.class.php:1787
+msgid "koruna"
+msgid_plural "koruna"
+msgstr[0] "کرونای"
+
+#: includes/woo-pdf-invoice.class.php:1788
+#: includes/woo-pdf-invoice.class.php:1805
+msgid "krone"
+msgid_plural "kroner"
+msgstr[0] "کرون"
+
+#: includes/woo-pdf-invoice.class.php:1790
+msgid "euro"
+msgid_plural "euros"
+msgstr[0] "یورو"
+
+#: includes/woo-pdf-invoice.class.php:1792
+msgid "kuna"
+msgid_plural "kuna"
+msgstr[0] "کونا"
+
+#: includes/woo-pdf-invoice.class.php:1793
+msgid "forint"
+msgid_plural "forint"
+msgstr[0] "فورینت"
+
+#: includes/woo-pdf-invoice.class.php:1794
+#: includes/woo-pdf-invoice.class.php:1815
+msgid "krona"
+msgid_plural "kronur"
+msgstr[0] "کرون"
+
+#: includes/woo-pdf-invoice.class.php:1795
+msgid "rupiah"
+msgid_plural "rupiahs"
+msgstr[0] "واحد پول اندونزی"
+
+#: includes/woo-pdf-invoice.class.php:1796
+#: includes/woo-pdf-invoice.class.php:1797
+msgid "rupee"
+msgid_plural "rupees"
+msgstr[0] "روپیه"
+
+#: includes/woo-pdf-invoice.class.php:1798
+msgid "shekel"
+msgid_plural "shekalim"
+msgstr[0] "شکل"
+
+#: includes/woo-pdf-invoice.class.php:1799
+msgid "yen"
+msgid_plural "yen"
+msgstr[0] "ین"
+
+#: includes/woo-pdf-invoice.class.php:1800
+msgid "kip"
+msgid_plural "kip"
+msgstr[0] "پوست گوساله و بره"
+
+#: includes/woo-pdf-invoice.class.php:1801
+msgid "won"
+msgid_plural "won"
+msgstr[0] "کره ای برنده (KRW)"
+
+#: includes/woo-pdf-invoice.class.php:1802
+msgid "ringgit"
+msgid_plural "ringgit"
+msgstr[0] "رینگیت"
+
+#: includes/woo-pdf-invoice.class.php:1804
+msgid "naira"
+msgid_plural "naira"
+msgstr[0] "NAIRA"
+
+#: includes/woo-pdf-invoice.class.php:1807
+msgid "guarani"
+msgid_plural "guaranies"
+msgstr[0] "گوارانی"
+
+#: includes/woo-pdf-invoice.class.php:1809
+msgid "zloty"
+msgid_plural "zloty"
+msgstr[0] "زلوتی"
+
+#: includes/woo-pdf-invoice.class.php:1810
+#: includes/woo-pdf-invoice.class.php:1823
+msgid "pound"
+msgid_plural "pounds"
+msgstr[0] "پوند"
+
+#: includes/woo-pdf-invoice.class.php:1811
+msgid "leu"
+msgid_plural "lei"
+msgstr[0] "لئوی رومانی"
+
+#: includes/woo-pdf-invoice.class.php:1812
+msgid "ruble"
+msgid_plural "rublei"
+msgstr[0] "روبل روسیه (RUB)"
+
+#: includes/woo-pdf-invoice.class.php:1814
+msgid "rand"
+msgid_plural "rand"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1816
+msgid "franc"
+msgid_plural "francs"
+msgstr[0] "فرانک"
+
+#: includes/woo-pdf-invoice.class.php:1818
+msgid "baht"
+msgid_plural "baht"
+msgstr[0] "بات"
+
+#: includes/woo-pdf-invoice.class.php:1819
+msgid "lira"
+msgid_plural "liras"
+msgstr[0] "Türk Lirası"
+
+#: includes/woo-pdf-invoice.class.php:1820
+msgid "hryvnia"
+msgid_plural "hryvni"
+msgstr[0] "گریونا اوکراین"
+
+#: includes/woo-pdf-invoice.class.php:1822
+msgid "dong"
+msgid_plural "dong"
+msgstr[0] "دونگ"
+
+#: includes/woo-pdf-invoice.class.php:1846
+msgid "fils"
+msgid_plural "fulūs"
+msgstr[0] "فلس"
+
+#: includes/woo-pdf-invoice.class.php:1847
+#: includes/woo-pdf-invoice.class.php:1850
+#: includes/woo-pdf-invoice.class.php:1853
+#: includes/woo-pdf-invoice.class.php:1855
+#: includes/woo-pdf-invoice.class.php:1858
+#: includes/woo-pdf-invoice.class.php:1872
+#: includes/woo-pdf-invoice.class.php:1877
+msgid "centavo"
+msgid_plural "centavos"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1848
+#: includes/woo-pdf-invoice.class.php:1852
+#: includes/woo-pdf-invoice.class.php:1859
+#: includes/woo-pdf-invoice.class.php:1860
+#: includes/woo-pdf-invoice.class.php:1875
+#: includes/woo-pdf-invoice.class.php:1882
+#: includes/woo-pdf-invoice.class.php:1883
+#: includes/woo-pdf-invoice.class.php:1886
+#: includes/woo-pdf-invoice.class.php:1890
+msgid "cent"
+msgid_plural "cents"
+msgstr[0] "سنت"
+
+#: includes/woo-pdf-invoice.class.php:1849
+msgid "paisa"
+msgid_plural "paisa"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1851
+msgid "stotinka"
+msgid_plural "stotinki"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1854
+msgid "fen"
+msgid_plural "fen"
+msgstr[0] "لشاب"
+
+#: includes/woo-pdf-invoice.class.php:1856
+msgid "heller"
+msgid_plural "heller"
+msgstr[0] "هلر"
+
+#: includes/woo-pdf-invoice.class.php:1857
+#: includes/woo-pdf-invoice.class.php:1874
+msgid "øre"
+msgid_plural "øre"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1861
+msgid "lipa"
+msgid_plural "lipa"
+msgstr[0] "lipa در"
+
+#: includes/woo-pdf-invoice.class.php:1862
+msgid "fillér"
+msgid_plural "fillér"
+msgstr[0] "پر کننده"
+
+#: includes/woo-pdf-invoice.class.php:1863
+msgid "eyrir"
+msgid_plural "aurar"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1864
+#: includes/woo-pdf-invoice.class.php:1868
+#: includes/woo-pdf-invoice.class.php:1871
+msgid "sen"
+msgid_plural "sen"
+msgstr[0] "سن"
+
+#: includes/woo-pdf-invoice.class.php:1865
+#: includes/woo-pdf-invoice.class.php:1866
+msgid "paisa "
+msgid_plural "paisa"
+msgstr[0] "پیسه"
+
+#: includes/woo-pdf-invoice.class.php:1867
+msgid "agora "
+msgid_plural "agorot"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1869
+msgid "att"
+msgid_plural "att"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1870
+msgid "jeon"
+msgid_plural "jeon"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1873
+msgid "kobo"
+msgid_plural "kobo"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1876
+msgid "céntimo"
+msgid_plural "céntimos"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1878
+msgid "grosz"
+msgid_plural "grosz"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1879
+msgid "penny "
+msgid_plural "pennies"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1880
+msgid "ban"
+msgid_plural "bani"
+msgstr[0] "ممنوعیت"
+
+#: includes/woo-pdf-invoice.class.php:1881
+msgid "kopeyka"
+msgid_plural "kopeyek"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1884
+msgid "öre"
+msgid_plural "öre"
+msgstr[0] ""
+
+#: includes/woo-pdf-invoice.class.php:1885
+msgid "rappen"
+msgid_plural "rappen"
+msgstr[0] "rappen"
+
+#: includes/woo-pdf-invoice.class.php:1887
+msgid "satang"
+msgid_plural "satang"
+msgstr[0] "satang"
+
+#: includes/woo-pdf-invoice.class.php:1888
+msgid "kuruş"
+msgid_plural "kuruş"
+msgstr[0] "غروش"
+
+#: includes/woo-pdf-invoice.class.php:1889
+msgid "kopiyka"
+msgid_plural "kopiyky"
+msgstr[0] "kopiyka"
+
+#: includes/woo-pdf-invoice.class.php:1891
+msgid "hào"
+msgid_plural "hào"
+msgstr[0] "هائو"
+
+#: includes/woo-pdf-invoice.class.php:1892
+msgid "piastre"
+msgid_plural "piastres"
+msgstr[0] "piastre"
+
+#: includes/woo-pdf-invoice.class.php:1928
+msgctxt "separator for numbers 21 through 99 (amount in words)"
+msgid "-"
+msgstr ""
+
+#: includes/woo-pdf-invoice.class.php:1930
+msgid "and"
+msgstr "و"
+
+#: includes/woo-pdf-invoice.class.php:1933
+msgid "zero"
+msgstr "صفر"
+
+#: includes/woo-pdf-invoice.class.php:1934
+msgid "one"
+msgstr "یک"
+
+#: includes/woo-pdf-invoice.class.php:1935
+msgid "two"
+msgstr "دو"
+
+#: includes/woo-pdf-invoice.class.php:1936
+msgid "three"
+msgstr "سه"
+
+#: includes/woo-pdf-invoice.class.php:1937
+msgid "four"
+msgstr "چهار"
+
+#: includes/woo-pdf-invoice.class.php:1938
+msgid "five"
+msgstr "پنج"
+
+#: includes/woo-pdf-invoice.class.php:1939
+msgid "six"
+msgstr "شش"
+
+#: includes/woo-pdf-invoice.class.php:1940
+msgid "seven"
+msgstr "هفت"
+
+#: includes/woo-pdf-invoice.class.php:1941
+msgid "eight"
+msgstr "هشت"
+
+#: includes/woo-pdf-invoice.class.php:1942
+msgid "nine"
+msgstr "نه"
+
+#: includes/woo-pdf-invoice.class.php:1943
+msgid "ten"
+msgstr "ده"
+
+#: includes/woo-pdf-invoice.class.php:1944
+msgid "eleven"
+msgstr "یازده"
+
+#: includes/woo-pdf-invoice.class.php:1945
+msgid "twelve"
+msgstr "دوازده"
+
+#: includes/woo-pdf-invoice.class.php:1946
+msgid "thirteen"
+msgstr "سیزده"
+
+#: includes/woo-pdf-invoice.class.php:1947
+msgid "fourteen"
+msgstr "چهارده"
+
+#: includes/woo-pdf-invoice.class.php:1948
+msgid "fifteen"
+msgstr "پانزده"
+
+#: includes/woo-pdf-invoice.class.php:1949
+msgid "sixteen"
+msgstr "شانزده"
+
+#: includes/woo-pdf-invoice.class.php:1950
+msgid "seventeen"
+msgstr "هفده"
+
+#: includes/woo-pdf-invoice.class.php:1951
+msgid "eighteen"
+msgstr "هجده"
+
+#: includes/woo-pdf-invoice.class.php:1952
+msgid "nineteen"
+msgstr "نوزده"
+
+#: includes/woo-pdf-invoice.class.php:1953
+msgid "twenty"
+msgstr "بیست"
+
+#: includes/woo-pdf-invoice.class.php:1954
+msgid "thirty"
+msgstr "سی"
+
+#: includes/woo-pdf-invoice.class.php:1955
+msgid "fourty"
+msgstr "چهل"
+
+#: includes/woo-pdf-invoice.class.php:1956
+msgid "fifty"
+msgstr "پنجاه"
+
+#: includes/woo-pdf-invoice.class.php:1957
+msgid "sixty"
+msgstr "شصت"
+
+#: includes/woo-pdf-invoice.class.php:1958
+msgid "seventy"
+msgstr "هفتاد"
+
+#: includes/woo-pdf-invoice.class.php:1959
+msgid "eighty"
+msgstr "هشتاد"
+
+#: includes/woo-pdf-invoice.class.php:1960
+msgid "ninety"
+msgstr "نود"
+
+#: includes/woo-pdf-invoice.class.php:1961
+msgid "hundred"
+msgstr "صد"
+
+#: includes/woo-pdf-invoice.class.php:1962
+msgid "thousand"
+msgstr "هزار"
+
+#: includes/woo-pdf-invoice.class.php:1963
+msgid "million"
+msgstr "میلیون"
+
+#: includes/woo-pdf-invoice.class.php:1964
+msgid "billion"
+msgstr "میلیارد"
+
+#: includes/woo-pdf-invoice.class.php:1965
+msgid "trillion"
+msgstr "تریلیون"
+
+#: includes/woo-pdf-invoice.class.php:1966
+msgid "quadrillion"
+msgstr "کوادریلیون"
+
+#: includes/woo-pdf-invoice.class.php:1967
+msgid "quintillion"
+msgstr "کوئینتیلیون (عدد یک با 18 صفر بتوان 2)"
+
+#: includes/woo-pdf-plugin-structure.inc.php:12
+#: woocommerce-pdf-invoice.php:1768
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:16
+msgid "Regular Invoice Settings"
+msgstr "تنظیمات عمومی فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:19
+msgid "Enable regular invoicing"
+msgstr "فعال کردن نظرات در صفحات معمولی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:26
+msgid ""
+"<p>Regular invoices are generated as soon as orders are marked as completed."
+"</p>"
+msgstr ""
+"<p>فاکتورهای عمومی به محض اینکه یک سفارش به حالت تکمیل شده تبدیل شود، صادر "
+"می شوند</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:29
+#: includes/woo-pdf-plugin-structure.inc.php:113
+msgid "Allow download"
+msgstr "اجازه دانلود بده"
+
+#: includes/woo-pdf-plugin-structure.inc.php:36
+msgid ""
+"<p>If enabled, clients will be able to download invoices from order details "
+"page.</p>"
+msgstr ""
+"<p>اگر فعال باشد، مشتریان می توانند فاکتورها را از صفحه جزییات سفارش دانلود "
+"کنند.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:39
+msgid "Attach to Completed Order emails"
+msgstr "به منظور تکمیل ایمیل پیوست"
+
+#: includes/woo-pdf-plugin-structure.inc.php:46
+msgid ""
+"<p>If enabled, PDF invoice will be emailed to the client along with Order "
+"Completed email.</p>"
+msgstr ""
+"<p>اگر فعال باشد، همراه با ایمیل تکمیل سفارش، فایل PDF فاکتور هم برای مشتری "
+"ارسال می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:51
+msgid "Regular Invoice Numbering"
+msgstr "شماره گذاری فاکتورهای عمومی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:54
+msgid "Numbering method"
+msgstr "روش شماره گذاری"
+
+#: includes/woo-pdf-plugin-structure.inc.php:62
+msgid "Internal sequence plus prefix/suffix"
+msgstr "شمارشگر داخلی به همراه پیشوند/پسوند"
+
+#: includes/woo-pdf-plugin-structure.inc.php:63
+msgid "Order numbers plus prefix/suffix"
+msgstr "شمارشگر سفارشی به همراه پیشوند/پسوند"
+
+#: includes/woo-pdf-plugin-structure.inc.php:64
+msgid "Order numbers"
+msgstr "شمارشگر سفارشی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:66
+msgid ""
+"<p>It is highly recommended that you stick to the standard internal "
+"numbering sequence which ensures there will be no gaps in the sequence "
+"(common problem with order numbers).</p> <p>Only change this value if you "
+"know what you are doing.</p>"
+msgstr ""
+"<p>شدیدا توصیه میکنیم شمارشگر داخلی را انتخاب کنید، تا مطمئن باشید هیچ فاصله "
+"ای میان شماره ها نمی افتد، وقفه و فاصله میان شماره ها شایع ترین مشکلی است که "
+"در شمارشگر سفارشی پدید می آید. </p> <p>فقط در صورتی که از تغییر این گزینه "
+"مطمئن هستید آن را تغییر دهید.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:69
+msgid "Next number"
+msgstr "شماره بعدی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:78
+msgid "Prefix"
+msgstr "پیشوند"
+
+#: includes/woo-pdf-plugin-structure.inc.php:85
+msgid ""
+"<p>Leave blank to use no prefix.</p> <p>The following macros are available: "
+"{{year}}, {{month}}, {{day}}.</p>"
+msgstr ""
+"<p>برای عدم استفاده از پیشوند، خالی بگذارید.</p> <p>این ماکروها قابل استفاده "
+"هستند: {{year}}, {{month}}, {{day}}.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:88
+msgid "Suffix"
+msgstr "پسوند"
+
+#: includes/woo-pdf-plugin-structure.inc.php:95
+msgid ""
+"<p>Leave blank to use no suffix.</p> <p>The following macros are available: "
+"{{year}}, {{month}}, {{day}}.</p>"
+msgstr ""
+"<p>برای عدم استفاده از پسوند، خالی بگذارید.</p> <p>این ماکروها قابل استفاده "
+"هستند: {{year}}, {{month}}, {{day}}.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:100
+msgid "Proforma Invoice Settings"
+msgstr "تنظیمات پیش فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:103
+msgid "Enable proforma invoicing"
+msgstr "فعالسازی پیش فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:110
+msgid ""
+"<p>Proforma invoices are generated as soon as order is placed.</p><p>Order "
+"IDs are used for proforma invoice numbering.</p><p>Proforma invoices are not "
+"available after order is marked as completed.</p>"
+msgstr ""
+"<p>پیش فاکتورها به محض ارسال سفارش توسط مشتری ایجاد می شوند.</p><p>شماره "
+"سفارش ها برای شماره گذاری پیش فاکتورها استفاده می شوند.</p><p>پیش فاکتورها "
+"پس از آنکه سفارش به وضعیت تکمیل شده تبدیل شود، قابل دسترسی نخواهند بود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:120
+msgid ""
+"<p>If enabled, clients will be able to download proforma invoices from order "
+"details page.</p>"
+msgstr ""
+"<p>اگر فعال باشد، مشتریان می‌توانند پیش فاکتورها را از صفحه جزییات سفارش "
+"دانلود کنند.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:123
+msgid "Attach to Processing Order emails"
+msgstr "به منظور پردازش ایمیل پیوست"
+
+#: includes/woo-pdf-plugin-structure.inc.php:130
+msgid ""
+"<p>If enabled, PDF proforma invoice will be emailed to the client along with "
+"Processing Order email.</p>"
+msgstr ""
+"<p>اگر فعال باشد، نسخه PDF پیش فاکتور به همراه ایمیل های وضعیت مختلف سفارش "
+"برای مشتری ارسال می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:133
+msgid "Trigger Customer Invoice emails"
+msgstr "قالب فاکتور مشتری"
+
+#: includes/woo-pdf-plugin-structure.inc.php:140
+msgid ""
+"<p>If enabled, Customer Invoice email will be triggered for all new orders "
+"and PDF proforma invoice will be attached.</p>"
+msgstr ""
+"<p>اگر فعال, فاکتور مشتری پست الکترونیکی برای تمام سفارشات جدید موجب خواهد "
+"شد و پی دی اف proforma فاکتور متصل خواهد شد.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:147
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/woo-pdf-plugin-structure.inc.php:151
+msgid "Invoice Settings"
+msgstr "تنظیمات فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:154
+msgid "Display product ID/SKU"
+msgstr "نمایش ID/SKU محصول"
+
+#: includes/woo-pdf-plugin-structure.inc.php:162
+msgid "Do not display"
+msgstr "عدم نمایش"
+
+#: includes/woo-pdf-plugin-structure.inc.php:163
+msgid "Display product ID (WP post ID)"
+msgstr "نمایش ID محصول (WP post ID)"
+
+#: includes/woo-pdf-plugin-structure.inc.php:164
+msgid "Display SKU"
+msgstr "نمایش SKU"
+
+#: includes/woo-pdf-plugin-structure.inc.php:166
+msgid ""
+"<p>If enabled, product ID/SKU will be displayed for each item just before "
+"its name.</p>"
+msgstr "<p>اگر فعال باشد، ID/SKU پیش از نام هر آیتم به نمایش در خواهد آمد.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:169
+msgid "Display product category"
+msgstr "نمایش دسته‌بندی محصول"
+
+#: includes/woo-pdf-plugin-structure.inc.php:176
+msgid ""
+"<p>Controls whether or not to display product category below each order item "
+"on the invoice.</p> <p>If there are multiple categories, they will be "
+"displayed in one line separated by commas.</p>"
+msgstr ""
+"<p>کنترل محصول زیر هر مورد سفارش در فاکتور نمایش داده شود یا خیر.</p><p>اگر "
+"چند دسته آنها در یک خط با کاما جدا شده نمایش داده خواهد شد.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:179
+msgid "Display short description"
+msgstr "نمایش توضیحات کوتاه"
+
+#: includes/woo-pdf-plugin-structure.inc.php:186
+msgid ""
+"<p>Controls whether or not to display product short description below each "
+"order item on the invoice.</p> <p>This extension attempts to convert HTML to "
+"text but this feature is experimental. Use plain text to be sure that the "
+"final result looks as expected.</p>"
+msgstr ""
+"<p>کنترل محصول توضیحات کوتاه در زیر هر مورد سفارش در فاکتور نمایش داده شود "
+"یا خیر.</p><p>این فرمت تلاش برای تبدیل HTML به متن اما این ویژگی آزمایشی "
+"است. متن ساده استفاده کنید تا مطمئن شوید که نتیجه نهایی به نظر می رسد که "
+"انتظار می رود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:189
+msgid "Display product images"
+msgstr "نمایش تصاویر محصول"
+
+#: includes/woo-pdf-plugin-structure.inc.php:196
+msgid ""
+"<p>Controls whether or not to display product images below product name "
+"whenever available.</p> <p>This feature is experimental - use at your own "
+"risk.</p>"
+msgstr ""
+"<p>کنترل یا نه برای نمایش تصاویر محصول زیر نام محصول هر زمان در دسترس است.</"
+"p><p>این ویژگی تجربی - استفاده از در معرض خطر خود شما.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:199
+msgid "Display currency symbol"
+msgstr "نمایش نماد قیمت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:206
+msgid ""
+"<p>If enabled, currency symbol (e.g. $) will be displayed next to every "
+"amount on the invoice. Currency code (e.g. USD) is displayed next to total "
+"amount in any way.</p>"
+msgstr ""
+"<p>اگر فعال, نماد پول (به عنوان مثال $) خواهد شد در کنار هر مقدار در فاکتور "
+"نمایش داده شود. کد ارز (به عنوان مثال USD) بعد مقدار کل به هیچ وجه نمایش "
+"داده می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:209
+msgid "Display shipping when free"
+msgstr "نمایش حمل و نقل وقتی رایگان است"
+
+#: includes/woo-pdf-plugin-structure.inc.php:216
+msgid ""
+"<p>If enabled, shipping row will be displayed even if shipping is free (zero "
+"value).</p>"
+msgstr ""
+"<p>حتی اگر حمل و نقل رایگان است اگر فعال, حمل و نقل ردیف نشان داده خواهد شد "
+"(مقدار صفر).</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:219
+msgid "Display amount in words"
+msgstr "نمایش مقدار به صورت حروف"
+
+#: includes/woo-pdf-plugin-structure.inc.php:226
+msgid ""
+"<p>Depending on your country, you may need to print amount in words on your "
+"invoices.</p><p>Use translation file that comes with this plugin to "
+"translate numbers, set your own currency and plural forms.</p><p>This "
+"feature is experimental - use at your own risk.</p>"
+msgstr ""
+"<p>بسته به کشور خود، شما ممکن است نیاز به چاپ مقدار عبارت خود.</p><p>استفاده "
+"از فایل های ترجمه است که همراه با این افزونه برای ترجمه اعداد، تعیین نرخ ارز "
+"خود و فرم های جمع.</p><p>این ویژگی تجربی - استفاده از در معرض خطر خود شما.</"
+"p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:229
+msgid "Reset numbering each year"
+msgstr "ریست کردن شماره‌گذاری در هر سال"
+
+#: includes/woo-pdf-plugin-structure.inc.php:236
+msgid ""
+"<p>If enabled, next invoice number will be reset to 1 when the first invoice "
+"is generated each year.</p> <p>For this to take effect, there must be at "
+"least one invoice generated last year and no invoices generated this year.</"
+"p>"
+msgstr ""
+"<p>هنگامی که اولین فاکتور تولید شده است هر سال اگر فعال, شماره فاکتور بعدی 1 "
+"تنظيم خواهد شد.</p><p>برای این اعمال، باید وجود داشته باشد حداقل یک فاکتور "
+"تولید سال گذشته و هیچ فاکتورها امسال تولید می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:241
+msgid "Tax Settings"
+msgstr "تنظیمات مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:244
+msgid "Display tax rows"
+msgstr "نمایش ردیف های مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:252
+msgid "When tax is not displayed inline"
+msgstr "چه موقع مالیات نمایش داده نمی شود"
+
+#: includes/woo-pdf-plugin-structure.inc.php:253
+#: includes/woo-pdf-plugin-structure.inc.php:268
+msgid "Always"
+msgstr "همیشه"
+
+#: includes/woo-pdf-plugin-structure.inc.php:254
+#: includes/woo-pdf-plugin-structure.inc.php:269
+msgid "Never"
+msgstr "هرگز"
+
+#: includes/woo-pdf-plugin-structure.inc.php:256
+msgid ""
+"<p>If enabled, all applicable taxes will be listed just above (if Subtotal "
+"is exclusive of tax) or below (if Subtotal is inclusive of tax) Total row.</"
+"p>"
+msgstr ""
+"<p>(اگر جمع کل منحصر به فرد از مالیات) اگر فعال, تمام مالیات قابل اجرا فقط "
+"در بالا ذکر شده و یا زیر (اگر جمع کل شامل مالیات) مجموع ردیف.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:259
+msgid "Display tax inline"
+msgstr "نمایش مالیات خطی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:267
+msgid "When different rates are present"
+msgstr "هنگامی که نرخ های متفاوت دارند"
+
+#: includes/woo-pdf-plugin-structure.inc.php:271
+msgid ""
+"<p>You may need to display net amount, tax rate and tax amount individually "
+"for each line item.</p> <p>This is useful when different rates of the same "
+"tax are used for different items on the same invoice, e.g. reduced VAT rate "
+"is applied to specific group of products.</p>"
+msgstr ""
+"<p>شما ممکن است نیاز به نمایش مقدار خالص، نرخ مالیات و مقدار مالیات به صورت "
+"جداگانه برای هر مورد خط.</p><p>این مفید است زمانی که نرخ های متفاوت مالیات "
+"بر همان برای آیتم های مختلف در همان فاکتور استفاده می شود، عنوان مثال کاهش "
+"نرخ مالیات بر ارزش افزوده به گروه خاصی از محصولات استفاده می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:274
+msgid "Display amounts inclusive of tax"
+msgstr "نمایش مقادیر شامل مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:281
+msgid ""
+"<p>If enabled, line item price, line subtotal and subtotal will be displayed "
+"inclusive of tax. This plugin always overrides related WooCommerce settings."
+"</p><p>This setting is ignored when tax is displayed inline.</p>"
+msgstr ""
+"<p>اگر فعال قیمت خط مورد خط زیر مجموعهای و زیر مجموعهای شامل مالیات نمایش "
+"داده می شود. این افزونه همیشه مرتبط WooCommerce تنظیمات را لغو می کند.</"
+"p><p>این تنظیمات نادیده گرفته است هنگامی که مالیات خطی نمایش داده شده است.</"
+"p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:284
+msgid "Display total excl. tax row"
+msgstr "نمایش کل بدون مالیات ردیف"
+
+#: includes/woo-pdf-plugin-structure.inc.php:291
+msgid ""
+"<p>If enabled, additional line will be added to the totals block that "
+"displays total exclusive of tax.</p>"
+msgstr ""
+"<p>اگر فعال, خط اضافی به بلوک بالغ است که نشان می دهد مجموع منحصر به فرد از "
+"مالیات اضافه می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:296
+msgid "Other Settings"
+msgstr "سایر تنظیمات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:299
+msgid "Display order page buttons"
+msgstr "نمایش کلیدهای صفحه سفارش"
+
+#: includes/woo-pdf-plugin-structure.inc.php:306
+msgid ""
+"<p>If enabled, download button will be displayed for a customer next to each "
+"order in the orders list.</p> <p>These buttons are optional - if you disable "
+"them, invoice download links will still be displayed on a single order "
+"details page if <strong>Allow download</strong> is enabled.</p>"
+msgstr ""
+"<p>اگر فعال باشد، در مقابل هر سفارش در لیست سفارشات مشتری یک دکمه دانلود "
+"نمایش داده می شود.</p> <p>این دکمه ها اختیاری هستند، اگر انها را غیرفعال "
+"کنید لینک های دانلود فاکتور همچنان در صفحه جزییات سفارش قابل استفاده خواهند "
+"بود <strong>در صورتی که اجازه دانلود فعال باشد</strong></p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:309
+msgid "Send proforma invoice to admin"
+msgstr "ارسال پیش فاکتور برای مدیریت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:316
+msgid ""
+"<p>If enabled, proforma invoices will be attached to New Order email that is "
+"sent to store administrator or manager.</p> <p>Please note that proforma "
+"invoicing must be enabled for this feature to take effect.</p>"
+msgstr ""
+"<p>اگر فعال باشد، پیش فاکتور به همراه ایمیل دریافت سفارش جدید که به مدیریت "
+"فروشگاه ارسال می شود برای ایشان ارسال خواهد شد.</p> <p>لطفا توجه داشته باشید "
+"که برای استفاده از این قابلیت می باید گزینه پیش فاکتور را فعال کرده باشید.</"
+"p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:319
+msgid "Allow admins to delete invoices"
+msgstr "اجازه دادن به مدیران برای حذف فاکتورها"
+
+#: includes/woo-pdf-plugin-structure.inc.php:326
+msgid ""
+"<p>You are strongly advised against activating and using this feature as it "
+"may cause more harm than good.</p> <p>When you delete an invoice and "
+"regenerate it, invoice number will be different (if you use internal "
+"numbering sequence).</p> <p>It is against accounting standards to have gaps "
+"in the invoice numbering system - you must account for each number in the "
+"sequence.</p> <p>Use at your own risk.</p>"
+msgstr ""
+"<p>استفاده از این گزینه بیش از آنکه برای شما مفید باشد دارای ضرر است. اکیدا "
+"توصیه میکنیم ان را فعال نکنید.</p> <p>وقتی شما یک فاکتور را حذف کرده و مجددا "
+"آن را ایجاد می کنید شماره فاکتور تغییر میکند. (البته در صورتی که از شمارشگر "
+"داخلی استفاده کنید به این صورت خواهد بود)</p> <p>وجود فاصله میان شماره "
+"فاکتورها بر خلاف استانداردهای حساب داری است و در این استانداردها شما لزوما "
+"می باید برای هر شماره فاکتور پاسخگو باشید.</p> <p>مسئولیت استفاده از این "
+"قابلیت بر عهده شماست.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:329
+msgid "Force user login"
+msgstr "اجبار به ورود کاربر"
+
+#: includes/woo-pdf-plugin-structure.inc.php:336
+msgid ""
+"<p>Although it is impossible for anyone to guess the download URL for a "
+"particular invoice, you may wish to tighten security even more by requesting "
+"user login before invoices can be downloaded.</p>"
+msgstr ""
+"<p>هر چند که غیر ممکن است برای هر کسی آدرس اینترنتی دانلود فاکتور خاص را حدس "
+"بزنید، شما ممکن است بخواهید سفت امنیت بیشتری با درخواست ورود کاربر قبل از "
+"فاکتورها می توان دریافت.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:343
+msgid "Seller & Buyer"
+msgstr "فروشندگان و خریداران"
+
+#: includes/woo-pdf-plugin-structure.inc.php:347
+msgid "Seller Block"
+msgstr "بلوک فروشنده"
+
+#: includes/woo-pdf-plugin-structure.inc.php:350
+msgid "Logo image"
+msgstr "تصویر لوگو"
+
+#: includes/woo-pdf-plugin-structure.inc.php:357
+msgid "<p>Enter URL or select image from Media Library.</p>"
+msgstr "<p>لینک را وارد کرده یا تصویر را از کتابخانه وردپرس انتخاب کنید.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:360
+msgid "Logo resize factor (in percent)"
+msgstr "تغییر اندازه لوگو (مقیاس به درصد)"
+
+#: includes/woo-pdf-plugin-structure.inc.php:367
+msgid ""
+"<p>Increase this number if you want to make your logo larger on the invoice "
+"and vice versa.</p>"
+msgstr ""
+"<p>اگر می خواهید لوگو در فاکتور بزرگتر به نمایش درآید این مقدار را تغییر "
+"دهید.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:370
+#: includes/woo-pdf-plugin-structure.inc.php:403
+msgid "Block title"
+msgstr "بلوک عنوان"
+
+#: includes/woo-pdf-plugin-structure.inc.php:372
+msgid "Seller"
+msgstr "فروشنده"
+
+#: includes/woo-pdf-plugin-structure.inc.php:379
+msgid "Company name"
+msgstr "نام شرکت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:388
+msgid "Company details"
+msgstr "اطلاعات شرکت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:395
+msgid ""
+"<p>Use this field to set up your company details, including address, company "
+"registration number, tax code etc.</p>"
+msgstr ""
+"<p>از این فیلد برای وارد کردن اطلاعات شرکت کمک بگیرید، اطلاعاتی همچون ادرس، "
+"شماره ثبت، کد اقتصادی و ...</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:400
+msgid "Buyer Block"
+msgstr "بلوک خریدار/مشتری"
+
+#: includes/woo-pdf-plugin-structure.inc.php:405
+msgid "Buyer"
+msgstr "خریدار"
+
+#: includes/woo-pdf-plugin-structure.inc.php:412
+msgid "Buyer details layout"
+msgstr "قالب بندی اطلاعات خریدار"
+
+#: includes/woo-pdf-plugin-structure.inc.php:419
+#, php-format
+msgid ""
+"<p>Use this field to set up the layout of the buyer details block.</p> "
+"<p>The following macros are available: %s</p> <p>You can use custom fields "
+"in the same way, e.g. {{my_custom_field_key}}.</p> <p>Do not include buyer "
+"first name, last name and company name - these fields are displayed "
+"automatically.</p>"
+msgstr ""
+"<p>از این فیلد برای چیدمان بلوک اطلاعات خریدار کمک بگیرید.</p> <p>این "
+"ماکروها قابل استفاده هستند: %s</p> <p>همچنین شما می توانید از فیلدهای سفارشی "
+"نیز استفاده کنید. به عنوان مثال  {{my_custom_field_key}}.</p> <p>نام کوچک، "
+"نام خانوادگی و نام شرکت خریدار را وارد نکنید. این اطلاعات به طور خودکار "
+"نمایش داده می شوند.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:422
+#: includes/woo-pdf-plugin-structure.inc.php:453
+#: includes/woo-pdf-plugin-structure.inc.php:477
+#: includes/woo-pdf-plugin-structure.inc.php:510
+#: includes/woo-pdf-plugin-structure.inc.php:557
+#: includes/woo-pdf-plugin-structure.inc.php:604
+#: includes/woo-pdf-plugin-structure.inc.php:651
+msgid "Remove lines with empty values"
+msgstr "حذف خطوط خالی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:429
+#: includes/woo-pdf-plugin-structure.inc.php:460
+msgid ""
+"<p>If enabled, all lines that contain macros with empty values only will be "
+"removed.</p>"
+msgstr ""
+"<p>اگر فعال باشد، تمام خطوط شامل ماکرو که هیچ خروجی ندارند، حذف می شوند.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:436
+msgid "Content Blocks"
+msgstr "بلوک های محتوا"
+
+#: includes/woo-pdf-plugin-structure.inc.php:440
+msgid "Invoice Details"
+msgstr "جزییات فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:443
+msgid "Block layout"
+msgstr "چیدمان بلوک"
+
+#: includes/woo-pdf-plugin-structure.inc.php:450
+msgid ""
+"<p>Use this field to set up the layout of the invoice details block.</p> "
+"<p>Use '|' symbol to separate left and right columns.</p>"
+msgstr ""
+"<p>با استفاده از این زمینه راه اندازی چیدمان بلوک جزئیات فاکتور.</"
+"p><p>استفاده ' |' نماد برای جدا کردن ستون چپ و راست.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:465
+msgid "Page Footer"
+msgstr "پانوشت صفحه"
+
+#: includes/woo-pdf-plugin-structure.inc.php:468
+#: includes/woo-pdf-plugin-structure.inc.php:501
+#: includes/woo-pdf-plugin-structure.inc.php:548
+#: includes/woo-pdf-plugin-structure.inc.php:595
+#: includes/woo-pdf-plugin-structure.inc.php:642
+msgid "Content"
+msgstr "مطالب و محتوا"
+
+#: includes/woo-pdf-plugin-structure.inc.php:484
+#: includes/woo-pdf-plugin-structure.inc.php:517
+#: includes/woo-pdf-plugin-structure.inc.php:564
+#: includes/woo-pdf-plugin-structure.inc.php:611
+#: includes/woo-pdf-plugin-structure.inc.php:658
+msgid ""
+"<p>If you are using macros in your content, you may wish to remove lines on "
+"which all macros are empty.</p>"
+msgstr ""
+"<p>اگر از ماکروها در محتوای خود استفاده میکنید ممکن است بخواهید خطوطی که "
+"ماکروها هیچ خروجی برای آنها ندارند را حذف کنید.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:489
+msgid "Custom Block #1"
+msgstr "بلوک سفارشی شماره 1"
+
+#: includes/woo-pdf-plugin-structure.inc.php:492
+#: includes/woo-pdf-plugin-structure.inc.php:539
+#: includes/woo-pdf-plugin-structure.inc.php:586
+#: includes/woo-pdf-plugin-structure.inc.php:633
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/woo-pdf-plugin-structure.inc.php:520
+#: includes/woo-pdf-plugin-structure.inc.php:567
+#: includes/woo-pdf-plugin-structure.inc.php:614
+#: includes/woo-pdf-plugin-structure.inc.php:661
+msgid "Displayed on"
+msgstr "نمایش در"
+
+#: includes/woo-pdf-plugin-structure.inc.php:528
+#: includes/woo-pdf-plugin-structure.inc.php:575
+#: includes/woo-pdf-plugin-structure.inc.php:622
+#: includes/woo-pdf-plugin-structure.inc.php:669
+msgid "Both types of invoices"
+msgstr "هر دو نوع فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:529
+#: includes/woo-pdf-plugin-structure.inc.php:576
+#: includes/woo-pdf-plugin-structure.inc.php:623
+#: includes/woo-pdf-plugin-structure.inc.php:670
+msgid "Regular invoices"
+msgstr "فاکتورهای عمومی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:530
+#: includes/woo-pdf-plugin-structure.inc.php:577
+#: includes/woo-pdf-plugin-structure.inc.php:624
+#: includes/woo-pdf-plugin-structure.inc.php:671
+msgid "Proforma invoices"
+msgstr "پیش فاکتورها"
+
+#: includes/woo-pdf-plugin-structure.inc.php:536
+msgid "Custom Block #2"
+msgstr "بلوک سفارشی شماره 2"
+
+#: includes/woo-pdf-plugin-structure.inc.php:583
+msgid "Custom Block #3"
+msgstr "بلوک سفارشی شماره 3"
+
+#: includes/woo-pdf-plugin-structure.inc.php:630
+msgid "Custom Block #4"
+msgstr "بلوک سفارشی شماره 4"
+
+#: includes/woo-pdf-plugin-structure.inc.php:679
+msgid "Localization"
+msgstr "ترجمه"
+
+#: includes/woo-pdf-plugin-structure.inc.php:683
+msgid "Date & Time"
+msgstr "تاریخ و زمان"
+
+#: includes/woo-pdf-plugin-structure.inc.php:686
+msgid "Date format"
+msgstr "فرمت تاریخ"
+
+#: includes/woo-pdf-plugin-structure.inc.php:694
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: includes/woo-pdf-plugin-structure.inc.php:695
+msgid "mm/dd/yyyy"
+msgstr "mm/dd/yyyy"
+
+#: includes/woo-pdf-plugin-structure.inc.php:696
+msgid "dd/mm/yy"
+msgstr "‎شمسی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:697
+msgid "dd/mm/yyyy"
+msgstr "dd/mm/yyyy"
+
+#: includes/woo-pdf-plugin-structure.inc.php:698
+msgid "yy-mm-dd"
+msgstr "YY-MM-DD"
+
+#: includes/woo-pdf-plugin-structure.inc.php:699
+msgid "yyyy-mm-dd"
+msgstr "YYYY-MM-DD"
+
+#: includes/woo-pdf-plugin-structure.inc.php:700
+msgid "Month dd, yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:701
+msgid "dd.mm.yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:702
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: includes/woo-pdf-plugin-structure.inc.php:708
+msgid "Field Labels"
+msgstr "لیبل فیلدها"
+
+#: includes/woo-pdf-plugin-structure.inc.php:711
+#: includes/woo-pdf-plugin-structure.inc.php:713
+#: woocommerce-pdf-invoice.php:1210 woocommerce-pdf-invoice.php:1211
+#: woocommerce-pdf-invoice.php:1872
+msgid "Invoice"
+msgstr "فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:720
+#: includes/woo-pdf-plugin-structure.inc.php:722
+msgid "Proforma Invoice"
+msgstr "پیش فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:729
+#: includes/woo-pdf-plugin-structure.inc.php:731
+msgid "Invoice Date"
+msgstr "تاریخ فاکتور :"
+
+#: includes/woo-pdf-plugin-structure.inc.php:738
+#: includes/woo-pdf-plugin-structure.inc.php:740
+msgid "Order Amount"
+msgstr "مبلغ سفارش"
+
+#: includes/woo-pdf-plugin-structure.inc.php:747
+#: includes/woo-pdf-plugin-structure.inc.php:749
+msgid "Product"
+msgstr "محصول"
+
+#: includes/woo-pdf-plugin-structure.inc.php:756
+#: includes/woo-pdf-plugin-structure.inc.php:758
+msgid "Price"
+msgstr "قیمت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:765
+msgid "Quantity"
+msgstr "تعداد"
+
+#: includes/woo-pdf-plugin-structure.inc.php:767
+msgid "Qty."
+msgstr "تعداد"
+
+#: includes/woo-pdf-plugin-structure.inc.php:774
+#: includes/woo-pdf-plugin-structure.inc.php:776
+msgid "Net"
+msgstr "وزن"
+
+#: includes/woo-pdf-plugin-structure.inc.php:781
+msgid ""
+"<p>Used as a column name for a line net amount column when different tax "
+"rates are used for different items.</p>"
+msgstr ""
+"<p>استفاده به عنوان نام ستون برای ستون مقدار خالص خط نرخ مالیات های مختلف "
+"برای موارد مختلف استفاده می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:784
+#: includes/woo-pdf-plugin-structure.inc.php:786
+msgid "Tax %"
+msgstr "مالیات %"
+
+#: includes/woo-pdf-plugin-structure.inc.php:791
+msgid ""
+"<p>Used as a column name for a line tax rate column when different tax rates "
+"are used for different items.</p>"
+msgstr ""
+"<p>استفاده به عنوان نام ستون برای خط ستون نرخ مالیات نرخ مالیات های مختلف "
+"برای موارد مختلف استفاده می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:794
+#: includes/woo-pdf-plugin-structure.inc.php:796
+msgid "Tax"
+msgstr "مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:801
+msgid ""
+"<p>Used as a column name for a line tax total column when different tax "
+"rates are used for different items.</p>"
+msgstr ""
+"<p>استفاده به عنوان نام ستون برای ستون خط مالیات کل نرخ مالیات های مختلف "
+"برای موارد مختلف استفاده می شود.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:804
+#: includes/woo-pdf-plugin-structure.inc.php:806
+msgid "Line Total"
+msgstr "جمع خط"
+
+#: includes/woo-pdf-plugin-structure.inc.php:813
+#: includes/woo-pdf-plugin-structure.inc.php:815
+msgid "Shipping"
+msgstr "حمل و نقل"
+
+#: includes/woo-pdf-plugin-structure.inc.php:822
+#: includes/woo-pdf-plugin-structure.inc.php:824
+msgid "Shipping Tax"
+msgstr "مالیات حمل و نقل"
+
+#: includes/woo-pdf-plugin-structure.inc.php:829
+msgid ""
+"<p>Only displayed when different tax rates are used for different items. In "
+"this case, all other tax amounts are displayed inline on the main table and "
+"only shipping tax row is displayed on the totals block.</p>"
+msgstr ""
+"<p>فقط نمایش داده شده هنگامی که نرخ مالیات های مختلف برای موارد مختلف "
+"استفاده می شود. در این صورت، سایر مقادیر مالیات خطی نمایش داده شده در جدول "
+"اصلی هستند و تنها ردیف مالیات حمل و نقل داده شده است در مجموع بلوک.</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:832
+#: includes/woo-pdf-plugin-structure.inc.php:834
+msgid "Subtotal"
+msgstr "جمع کل"
+
+#: includes/woo-pdf-plugin-structure.inc.php:841
+#: includes/woo-pdf-plugin-structure.inc.php:843
+msgid "Cart Discount"
+msgstr "تخفیف کارت"
+
+#: includes/woo-pdf-plugin-structure.inc.php:850
+#: includes/woo-pdf-plugin-structure.inc.php:852
+msgid "Order Discount"
+msgstr "تخفیف سفارش"
+
+#: includes/woo-pdf-plugin-structure.inc.php:859
+#: includes/woo-pdf-plugin-structure.inc.php:861
+msgid "Total"
+msgstr "جمع"
+
+#: includes/woo-pdf-plugin-structure.inc.php:868
+msgid "Total Excluding Tax"
+msgstr "جمع کل بدون مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:870
+msgid "Total Excl. Tax"
+msgstr "جمع کل بدون مالیات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:877
+#: includes/woo-pdf-plugin-structure.inc.php:879
+msgid "Category"
+msgstr "دسته بندی"
+
+#: includes/woo-pdf-plugin-structure.inc.php:886
+#: includes/woo-pdf-plugin-structure.inc.php:888
+msgid "Description"
+msgstr "توضیحات"
+
+#: includes/woo-pdf-plugin-structure.inc.php:895
+#: includes/woo-pdf-plugin-structure.inc.php:897
+msgid "Notes"
+msgstr "یادداشت ها"
+
+#: includes/woo-pdf-plugin-structure.inc.php:904
+#: includes/woo-pdf-plugin-structure.inc.php:906
+msgid "Amount in words"
+msgstr "مقدار به حروف"
+
+#: includes/woo-pdf-plugin-structure.inc.php:913
+#: includes/woo-pdf-plugin-structure.inc.php:915
+msgid "Page"
+msgstr "برگه"
+
+#: includes/woo-pdf-plugin-structure.inc.php:922
+#: includes/woo-pdf-plugin-structure.inc.php:924
+msgid "(additional page)"
+msgstr "(صفحه اضافه)"
+
+#: includes/woo-pdf-plugin-structure.inc.php:931
+#: includes/woo-pdf-plugin-structure.inc.php:933
+msgid "Download Invoice"
+msgstr "دانلود فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:940
+#: includes/woo-pdf-plugin-structure.inc.php:942
+msgid "Download Proforma Invoice"
+msgstr "دانلود پیش فاکتور"
+
+#: includes/woo-pdf-plugin-structure.inc.php:949
+#: includes/woo-pdf-plugin-structure.inc.php:951
+msgid "invoice_"
+msgstr "شماره فاکتور_"
+
+#: includes/woo-pdf-plugin-structure.inc.php:956
+msgid ""
+"<p>Value of this field is used as a file name prefix for regular invoices (e."
+"g. invoice_ABC_123.pdf).</p>"
+msgstr ""
+"<p>مقدار این فیلد به عنوان پیشوند برای نامگذاری فاکتورهای عمومی استفاده می "
+"شود. به عنوان مثال :  (invoice_ABC_123.pdf).</p>"
+
+#: includes/woo-pdf-plugin-structure.inc.php:963
+msgid "Batch Download"
+msgstr "دانلود یکباره"
+
+#: woocommerce-pdf-invoice.php:245
+msgid "WooCommerce PDF Invoices"
+msgstr "فاکتورهای PDF برای ووکامرس (فارسی شده توسط میلاد جعفری)"
+
+#: woocommerce-pdf-invoice.php:246 woocommerce-pdf-invoice.php:1834
+msgid "PDF Invoices"
+msgstr "فاکتورهای PDF"
+
+#: woocommerce-pdf-invoice.php:267
+msgid ""
+"Image processing library not found on your server.<br>You must have either "
+"GD or Imagick extension enabled on your server for this module to work "
+"correctly."
+msgstr ""
+"کتابخانه پردازش تصویر بر روی سرور خود نمی یافت.<br>شما باید تفاضل یا بايد "
+"فرمت فعال بر روی سرور خود را برای این ماژول به درستی کار."
+
+#: woocommerce-pdf-invoice.php:381
+msgid "Batch Invoice Download"
+msgstr "دانلود یکباره تمام فاکتورها"
+
+#: woocommerce-pdf-invoice.php:387
+msgid "Date from"
+msgstr "تاریخ شروع"
+
+#: woocommerce-pdf-invoice.php:393
+msgid "Date to"
+msgstr "تاریخ پایان"
+
+#: woocommerce-pdf-invoice.php:401
+msgid ""
+"Please note that only regular invoices are available for batch download."
+msgstr ""
+"لطفا توجه داشته باشید که فقط فاکتورهای عمومی قابلیت دانلود به صورت دانلود "
+"یکباره را دارند."
+
+#: woocommerce-pdf-invoice.php:404
+msgid "Download Invoices"
+msgstr "دانلود فاکتورها"
+
+#: woocommerce-pdf-invoice.php:423
+msgid "Macros"
+msgstr "ماکروها"
+
+#: woocommerce-pdf-invoice.php:424
+msgid ""
+"Footer and all custom blocks support the following macros in both title and "
+"content:"
+msgstr ""
+"فوتر و تمام بلوک های کاستوم، در تیتر و محتوای خود از ماکروهای زیر پشتیبانی "
+"می کنند:"
+
+#: woocommerce-pdf-invoice.php:468
+msgid ""
+"You can insert any other order field (including custom fields) in the same "
+"way, e.g."
+msgstr ""
+"شما هر دیگر سفارش (از جمله زمینه های سفارشی) در راه همان مثال درج می توانید"
+
+#: woocommerce-pdf-invoice.php:625
+msgid "Open Library"
+msgstr "بازکردن مجموعه"
+
+#: woocommerce-pdf-invoice.php:753
+msgid "Your settings have been saved."
+msgstr "تنظیمات شما ذخیره شد."
+
+#: woocommerce-pdf-invoice.php:759
+msgid "Reverted to a previous value."
+msgstr "بازگشت به مقدار قبلی."
+
+#: woocommerce-pdf-invoice.php:762
+msgid "must be numeric"
+msgstr "باید مقدار عددی باشد"
+
+#: woocommerce-pdf-invoice.php:763
+msgid "must be either 0 or 1"
+msgstr "باید 0 یا 1 باشد"
+
+#: woocommerce-pdf-invoice.php:764
+msgid "is not allowed"
+msgstr "مجاز نیست"
+
+#: woocommerce-pdf-invoice.php:765
+msgid "is not a valid email address"
+msgstr "ایمیل صحیح نیست"
+
+#: woocommerce-pdf-invoice.php:766
+msgid "is not a valid URL"
+msgstr "لینک صحیح نیست"
+
+#: woocommerce-pdf-invoice.php:767
+msgid "is not a valid text string"
+msgstr "عبارت متنی صحیح نیست"
+
+#: woocommerce-pdf-invoice.php:773
+msgid "Value of"
+msgstr "مقدار شروع"
+
+#: woocommerce-pdf-invoice.php:1219 woocommerce-pdf-invoice.php:1220
+#: woocommerce-pdf-invoice.php:1889
+msgid "Proforma"
+msgstr "پیش فاکتور"
+
+#: woocommerce-pdf-invoice.php:1766
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: woocommerce-pdf-invoice.php:1872
+msgid "Download regular invoice"
+msgstr "دانلود فاکتور عمومی"
+
+#: woocommerce-pdf-invoice.php:1874
+msgid "Delete invoice so you can regenerate it if needed"
+msgstr "حذف فاکتور، بنابراین شما می توانید در صورت نیاز آن را مجددا ایجاد کنید"
+
+#: woocommerce-pdf-invoice.php:1874
+msgid "Delete Invoice"
+msgstr "حذف فاکتور"
+
+#: woocommerce-pdf-invoice.php:1889
+msgid "Download proforma invoice"
+msgstr "دانلود پیش فاکتور"
+
+#: woocommerce-pdf-invoice.php:1892 woocommerce-pdf-invoice.php:1905
+msgid "Manually generate regular invoice"
+msgstr "ایجاد فاکتور عمومی به‌صورت دستی"
+
+#: woocommerce-pdf-invoice.php:1892 woocommerce-pdf-invoice.php:1905
+msgid "Generate Invoice"
+msgstr "ایجاد فاکتور"
+
+#~ msgid "Page footer"
+#~ msgstr "فوتر/پانوشت صفحه"
+
+#~ msgid "Invoice #"
+#~ msgstr "شماره فاکتور  #"
